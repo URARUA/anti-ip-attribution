@@ -1,5 +1,5 @@
 # 针对部分网站显示IP归属地的分流规则
-# anti-ip-attribution surge.list v0.3.0 6080d01e6f3165e8241a902746be9c2fdd62f8a5
+# anti-ip-attribution surge.list v0.3.0 874f47e79096dd1e8b7ebb5065c1991d95443f67
 # https://github.com/lwd-temp/anti-ip-attribution
 # Surge分流规则
 DOMAIN-SUFFIX,biliapi.net
